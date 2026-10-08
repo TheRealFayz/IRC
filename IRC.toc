@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: IRC
+## Notes: Instance Reset Counter — tracks the 5-per-hour reset cap with per-run coin, a lockout total, alerts, and party announce. Minimap button, no slash commands.
+## Author: Fayz
+## Version: 1.11
+## SavedVariables: IRCDB
+
+IRC.lua
