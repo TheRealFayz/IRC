@@ -1,6 +1,8 @@
 # **IRC - Instance Reset Counter**
 A lightweight addon that tracks your instance resets against the server's limit of **5 resets per hour**.
 
+You can also download IRC from OctoWoW's [Gitea](https://octowow.st/git/Fayz/IRC).
+
 ## What it does
 - Shows up to **5 reset timers**, each counting down from **60:00** (MM:SS).
 - **Reset 1 is always the oldest** reset (the shortest time remaining). When it
